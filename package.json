@@ -1,0 +1,33 @@
+{
+  "name": "programcodesavvy",
+  "version": "1.0.2",
+  "description": "programcodesavvy",
+  "type": "module",
+  "main": "programcodesavvy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/starkeoe1989/programcodesavvy"
+  },
+  "website": "https://github.com/starkeoe1989/programcodesavvy.git",
+  "keywords": [
+    "programcodesavvy"
+  ],
+  "author": "starkeoe1989",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/starkeoe1989/programcodesavvy/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/starkeoe1989/programcodesavvy#readme",
+  "dependencies": {
+    "codescriptcraft": "1.0.2",
+    "devcodewhisper": "1.0.2",
+    "programscriptcraft": "1.0.2"
+  }
+}
